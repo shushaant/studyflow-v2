@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Outer Focus Target Glow Ring -->
+        <path
+            android:pathData="M54,26 C69.46,26 82,38.54 82,54 C82,69.46 69.46,82 54,82 C38.54,82 26,69.46 26,54 C26,38.54 38.54,26 54,26 Z"
+            android:strokeColor="#1A4CD7F6"
+            android:strokeWidth="4" />
+        <path
+            android:pathData="M54,32 C66.15,32 76,41.85 76,54 C76,66.15 66.15,76 54,76 C41.85,76 32,41.85 32,54 C32,41.85 41.85,32 54,32 Z"
+            android:strokeColor="#4CD7F6"
+            android:strokeWidth="2.5" />
+        <!-- Open Book Silhouette -->
+        <path
+            android:pathData="M54,66 C48,63 42,62 34,62 C29,62 26,63 26,63 L26,45 C26,45 29,44 34,44 C42,44 48,46 54,49 C60,46 66,44 74,44 C79,44 82,45 82,45 L82,63 C82,63 79,62 74,62 C66,62 60,63 54,66 Z"
+            android:fillColor="#06B6D4" />
+        <path
+            android:pathData="M54,49 L54,67"
+            android:strokeColor="#10141A"
+            android:strokeWidth="2" />
+        <!-- Emerald Focus Spark / Checkmark -->
+        <path
+            android:pathData="M51,40 L57,33 L55,42 L61,42 L48,56 L51,46 L45,46 Z"
+            android:fillColor="#4EDEA3" />
+    </group>
+</vector>

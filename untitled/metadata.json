@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "Student study, discipline, and focus tracker with 7-subject CBSE syllabus progress, Pomodoro timer, drills, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
